@@ -200,4 +200,4 @@ logshow
 
 ####################################################################################
 
-mailx -s "Cloud Duplication Report" -a $BACKUPLOG -a $DUPBACKUPLOG  oommen.baby@cenovus.com < $INFOLOG
+mailx -s "Cloud Duplication Report" -a $BACKUPLOG -a $DUPBACKUPLOG  naveenvk88@gmail.com < $INFOLOG
